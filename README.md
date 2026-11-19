@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GreenMart
 
 GreenMart is a grocery-shopping mobile app built with Flutter. Browse grocery categories and products, and explore the shop, cart, favourites, and account screens in a clean, green-themed interface.
@@ -67,3 +68,6 @@ lib/
   widgets/
 screenshots/
 ```
+=======
+# green_mart
+>>>>>>> e23886c2ab6a46cb867f19bd37911665d4edcb89
